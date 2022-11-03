@@ -15,12 +15,12 @@ div.gallery {
     float: left;
     width: 180px;
   }
-  .logo-header {
-    background-image: url("C:\Users\Evan Jaz\Documents\PROYECTOGIT");
-    width: 200px; /* Definir de acuerdo al ancho de la imagen */
-    height: 200px; /* Definir de acuerdo al alto de la imagen */
+  p1{
+    color: crimson;
+    font-size: 34;
+    background-color: transparent;
 }
- 
+
 
  
  
