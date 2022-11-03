@@ -1,0 +1,27 @@
+
+H1 {
+    color: blue;
+    font-size:40px;
+    background-color: beige;
+}
+p{
+    color: darkcyan;
+    font-size: 34;
+    background-color: transparent;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  .logo-header {
+    background-image: url("C:\Users\Evan Jaz\Documents\PROYECTOGIT");
+    width: 200px; /* Definir de acuerdo al ancho de la imagen */
+    height: 200px; /* Definir de acuerdo al alto de la imagen */
+}
+ 
+
+ 
+ 
+  
